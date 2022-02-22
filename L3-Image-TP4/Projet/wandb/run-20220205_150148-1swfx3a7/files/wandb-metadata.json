@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-02-05T14:01:56.651409",
+    "startedAt": "2022-02-05T14:01:48.519948",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1060",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\eosma\\AppData\\Roaming\\jupyter\\runtime\\kernel-08928a2a-0d23-4d32-858a-c3d7e4642e77.json"
+    ],
+    "state": "running",
+    "program": "Projet/Projet Image - Machine Learning.ipynb",
+    "root": "F:\\Projets\\L3\\S6\\Image",
+    "host": "LAPTOP-5928LM9T",
+    "username": "eosma",
+    "executable": "F:\\Machine_Learning\\Anaconda\\envs\\keras_ml\\python.exe"
+}
